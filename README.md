@@ -7,3 +7,9 @@ The plug uses a custom post type, professors, and custom fields for that profess
 
 ## Language Translation
 This plugin also supports wp.i18n.__ language translation.  I have used the Loco Translate plugin and it works perfectly.
+
+## Contributing
+Pull requests are welcome. If you have a major change, please open an issue first to discuss what you would like to change.
+
+## Licensing
+[MIT](https://choosealicense.com/licenses/mit
