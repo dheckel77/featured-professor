@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Featured Professor Gutenberg Block\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-27 02:25+0000\n"
+"PO-Revision-Date: 2023-02-27 02:27+0000\n"
+"Last-Translator: Mr. D\n"
+"Language-Team: Spanish (Mexico)\n"
+"Language: es_MX\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: featured-professor"
+
+#. Description of the plugin
+msgid "Adds a Featured Professor block type to the Gutenberg menu options"
+msgstr ""
+
+#. Author of the plugin
+msgid "David Heckel"
+msgstr ""
+
+#. Name of the plugin
+msgid "Featured Professor Gutenberg Block"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://davidheckel.dev"
+msgstr ""
+
+#: build/index.js:209 src/index.js:66
+msgid "Select a professor"
+msgstr "Elige una profesora"
